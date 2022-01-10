@@ -1,6 +1,3 @@
-# Gossip-and-Push-sum-simulation
-Programmed distributed algorithms like push sum and gossip algorithms for group communication and aggregate computation for topologies like full network, 3D grids, and line network and scaled it up to 3000 nodes
-
 1 Problem Statement
 The goal of this project is to determine the convergence of Gossip and push sum algorithms through a
 simulator based on actors written in F. The efficiency of these algorithms depends on the underlying
